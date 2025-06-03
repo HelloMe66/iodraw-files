@@ -15,13 +15,11 @@
             <mxPoint x="400" y="-730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HVf3lACNFkERwVRwpZy-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-HVf3lACNFkERwVRwpZy-5">
-          <mxGeometry x="1" y="-3" relative="1" as="geometry">
-            <mxPoint x="2" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-HVf3lACNFkERwVRwpZy-3" value="绑定按钮点击事件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="-760" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HVf3lACNFkERwVRwpZy-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
