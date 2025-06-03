@@ -80,7 +80,7 @@
         <mxCell id="-HVf3lACNFkERwVRwpZy-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;检查密码是否为空&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-HVf3lACNFkERwVRwpZy-30" value="显示用户名不能为空，end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-HVf3lACNFkERwVRwpZy-30" value="显示密码不能为空，end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-HVf3lACNFkERwVRwpZy-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-HVf3lACNFkERwVRwpZy-33" target="-HVf3lACNFkERwVRwpZy-34">
