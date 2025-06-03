@@ -35,6 +35,11 @@
             <mxPoint x="570" y="-510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-HVf3lACNFkERwVRwpZy-25" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-HVf3lACNFkERwVRwpZy-16">
+          <mxGeometry x="-0.04" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-HVf3lACNFkERwVRwpZy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-HVf3lACNFkERwVRwpZy-13" target="-HVf3lACNFkERwVRwpZy-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -46,6 +51,11 @@
         </mxCell>
         <mxCell id="-HVf3lACNFkERwVRwpZy-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-HVf3lACNFkERwVRwpZy-19" target="-HVf3lACNFkERwVRwpZy-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HVf3lACNFkERwVRwpZy-26" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-HVf3lACNFkERwVRwpZy-22">
+          <mxGeometry x="-0.08" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-HVf3lACNFkERwVRwpZy-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;检查用户名是否为空&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="-640" width="120" height="80" as="geometry" />
