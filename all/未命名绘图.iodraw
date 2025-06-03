@@ -97,7 +97,7 @@
         <mxCell id="-HVf3lACNFkERwVRwpZy-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;检查用户名和密码是否匹配正确&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-HVf3lACNFkERwVRwpZy-34" value="显示用户名不能为空，end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-HVf3lACNFkERwVRwpZy-34" value="显示用户名或密码不正确，end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-HVf3lACNFkERwVRwpZy-37" value="显示登录成功，end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
