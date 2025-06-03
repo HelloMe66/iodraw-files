@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-HVf3lACNFkERwVRwpZy-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;验证验证码&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-640" width="120" height="80" as="geometry" />
+          <mxGeometry x="660" y="-640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-HVf3lACNFkERwVRwpZy-18" value="显示验证码错误，createCode产生新的验证码，end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="-510" width="120" height="60" as="geometry" />
