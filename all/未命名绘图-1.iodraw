@@ -47,6 +47,11 @@
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WHTdTJnhSHzVAu3NX4W2-15" target="WHTdTJnhSHzVAu3NX4W2-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WHTdTJnhSHzVAu3NX4W2-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WHTdTJnhSHzVAu3NX4W2-21">
+          <mxGeometry x="-0.1911" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-15" value="是否为会员" style="rhombus;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="395" width="90" height="50" as="geometry" />
         </mxCell>
@@ -54,7 +59,7 @@
           <mxGeometry x="357.5" y="510" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-20" value="" style="whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="515" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="400" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
