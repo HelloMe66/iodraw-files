@@ -13,7 +13,10 @@
           <mxGeometry x="-40" y="400" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-6" value="购书单" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="70" y="400" width="70" height="40" as="geometry" />
+          <mxGeometry x="90" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WHTdTJnhSHzVAu3NX4W2-7" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
