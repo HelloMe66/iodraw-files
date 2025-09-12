@@ -67,8 +67,8 @@
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WHTdTJnhSHzVAu3NX4W2-23" target="WHTdTJnhSHzVAu3NX4W2-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WHTdTJnhSHzVAu3NX4W2-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="552.75" width="80" height="64.5" as="geometry" />
+        <mxCell id="WHTdTJnhSHzVAu3NX4W2-23" value="会员数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="552.75" width="80" height="57.25" as="geometry" />
         </mxCell>
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="555" width="110" height="60" as="geometry" />
