@@ -84,7 +84,7 @@
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-24" value="判断会员卡&lt;div&gt;是否为真&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="555" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WHTdTJnhSHzVAu3NX4W2-30" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WHTdTJnhSHzVAu3NX4W2-30" value="系统计算折扣和积分" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="348.75" y="660" width="107.5" height="50" as="geometry" />
         </mxCell>
       </root>
