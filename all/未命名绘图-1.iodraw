@@ -55,6 +55,9 @@
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-15" value="是否为会员" style="rhombus;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="395" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="WHTdTJnhSHzVAu3NX4W2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WHTdTJnhSHzVAu3NX4W2-17" target="WHTdTJnhSHzVAu3NX4W2-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-17" value="输入会员卡号" style="whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="355" y="492.5" width="95" height="40" as="geometry" />
         </mxCell>
@@ -65,7 +68,7 @@
           <mxGeometry x="240" y="554.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="550" width="110" height="60" as="geometry" />
+          <mxGeometry x="347.5" y="555" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
