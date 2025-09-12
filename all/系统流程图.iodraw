@@ -112,7 +112,7 @@
         <mxCell id="nRLl7UhvB28cRc_i5tNV-1" value="积分信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="221" y="662.5" width="83" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="nRLl7UhvB28cRc_i5tNV-5" value="" style="whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="nRLl7UhvB28cRc_i5tNV-5" value="打印小票" style="whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="650" y="400" width="87.5" height="40" as="geometry" />
         </mxCell>
       </root>
