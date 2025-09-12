@@ -27,8 +27,8 @@
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;磁盘输入减少库存" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="570" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WHTdTJnhSHzVAu3NX4W2-12" value="" style="whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="210" y="480" width="90" height="40" as="geometry" />
+        <mxCell id="WHTdTJnhSHzVAu3NX4W2-12" value="减少库存" style="whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="215" y="480" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
