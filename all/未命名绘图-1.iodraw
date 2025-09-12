@@ -73,6 +73,12 @@
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-24" value="判断会员卡&lt;div&gt;是否为真&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="555" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WHTdTJnhSHzVAu3NX4W2-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="570" as="sourcePoint" />
+            <mxPoint x="410" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
