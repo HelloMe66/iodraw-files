@@ -55,8 +55,8 @@
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-15" value="是否为会员" style="rhombus;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="395" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WHTdTJnhSHzVAu3NX4W2-17" value="" style="whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="510" width="95" height="30" as="geometry" />
+        <mxCell id="WHTdTJnhSHzVAu3NX4W2-17" value="输入会员卡号" style="whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="510" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-20" value="直接付款" style="whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="85" height="40" as="geometry" />
