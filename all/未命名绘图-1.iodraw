@@ -78,8 +78,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WHTdTJnhSHzVAu3NX4W2-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WHTdTJnhSHzVAu3NX4W2-24" target="WHTdTJnhSHzVAu3NX4W2-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-24" value="判断会员卡&lt;div&gt;是否为真&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="555" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WHTdTJnhSHzVAu3NX4W2-30" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="695" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
