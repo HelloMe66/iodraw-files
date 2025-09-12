@@ -98,7 +98,10 @@
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-30" value="系统计算折扣和积分" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="348.75" y="660" width="107.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nRLl7UhvB28cRc_i5tNV-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+        <mxCell id="nRLl7UhvB28cRc_i5tNV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nRLl7UhvB28cRc_i5tNV-1" target="WHTdTJnhSHzVAu3NX4W2-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRLl7UhvB28cRc_i5tNV-1" value="积分信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="230" y="662.5" width="83" height="45" as="geometry" />
         </mxCell>
       </root>
