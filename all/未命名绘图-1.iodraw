@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="240" y="554.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="220" y="552.75" width="80" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="WHTdTJnhSHzVAu3NX4W2-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="555" width="110" height="60" as="geometry" />
